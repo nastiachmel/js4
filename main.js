@@ -13,7 +13,7 @@ if(num1==num2){
  return 0;
 }
 }
-// console.log(num(9,10));
+console.log(num(9,10));
 
 //2
 // Написать функцию, которая вычисляет
